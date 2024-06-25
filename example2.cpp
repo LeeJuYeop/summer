@@ -6,6 +6,7 @@ class Myclass
 public:
     int m;
     int n;
+    int c;
 };
 
 int main()
